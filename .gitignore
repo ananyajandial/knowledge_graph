@@ -1,0 +1,54 @@
+# Environment Variables
+.env
+.env.*
+
+# Virtual Environments
+venv/
+venv311/
+venv312/
+venv313/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Testing
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Build Artifacts
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Neo4j Local Files (if used later)
+data/
+import/
+plugins/
+logs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary Files
+*.tmp
+*.temp
